@@ -15,5 +15,6 @@ double computeStock()
 
 int main()
 {
-	//
+	//A single change.
+	//Change.
 }
